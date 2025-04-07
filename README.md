@@ -11,7 +11,7 @@ O seguinte código foi desenvolvido para fins de estudo e desenvolvimento pessoa
         user = email.get() #Apara adquirir o dado digitado.
         key = senha.get()
     
-        if user == "ama20@discente.ifpe.edu.br" and key == "1234":
+        if user == "ifpe.edu.br" and key == "1234":
             feedbackLogin.configure(text="Login realizado com sucesso! ", text_color="green") # "Configure" permite alterar propriedades de um elemento
         else:
             feedbackLogin.configure(text="Login incorreto", text_color="red")
