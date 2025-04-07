@@ -1,6 +1,6 @@
 
 ##
-# Customtkinter
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvj-nSZev-z_mo4w5RLXfc2OI5WCWNSRB5aPNuyq4D815WK3AkhMhWiRiT&s=10"/>
 ##
 O seguinte código foi desenvolvido para fins de estudo e desenvolvimento pessoal:
 
