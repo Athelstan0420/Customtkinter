@@ -3,9 +3,7 @@
 
 ##
 
-O seguinte código foi desenvolvido para fins de estudo e desenvolvimento pessoal:
-
-Aqui foi criado uma página de login, utilizando a linguagem python e sua biblioteca customtkinter para criação de janelas dinâmicas. 
+#LOGIN:
 
 ##
     
